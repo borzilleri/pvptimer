@@ -1,0 +1,13 @@
+## Interface: 30000
+## Title: PvP Timer
+## Notes: PvP Timer LDB Feed
+## Author: NightHawk The Sane
+## Version: 1.0
+## X-Email: nighthawkthesane@gmail.com
+## X-Category: PvP
+
+libs\LibStub.lua
+libs\CallbackHandler-1.0.lua
+libs\LibDataBroker-1.1.lua
+
+PvPTimer.lua
